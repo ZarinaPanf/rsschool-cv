@@ -8,8 +8,11 @@ Karaganda, 10000
 Kazakhstan
 
 LinkedIn: http://linkedin.com/in/zarina-panfilova-90947310a
+
 e-mail: panfilovazarina@gmail.com              
+
 Mobile phone: 87085333064
+
 
 Summary
 -------
