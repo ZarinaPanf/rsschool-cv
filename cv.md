@@ -1,6 +1,11 @@
 Zarina Panfilova
 ================
 
+{% include index.html %}
+
+<img src="photo.jpg" alt="Photo by Nicole Wolf"  width="350" height="400" />
+
+
 Contact Info
 ------------     
 3, Stepnoy-3            

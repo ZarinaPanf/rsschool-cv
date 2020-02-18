@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>CV</title>
-    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8" />
+    <title> {% if page.title %} {{ page.title }} | {% endif %} CV</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
   </head>
   <body>
-    <section data-markdown>
-        <script type="text/template" src="cv.md"></script>
-    </section>
+    <div id="main">
+        <div id="content">
+            {{ content }}
+        </div>
+      </div>
   </body>
 </html>
