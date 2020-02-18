@@ -2,14 +2,11 @@ body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     max-width: 1024px;
     margin: auto;
-    background: #000000;
+    background: #FFFCF0;
     padding: 10px 10px 10px 10px;
 }
 h1, h2 {
-    color: #ffffff;
-}
-h1:hover, h2:hover {
-    color: #F2F2F2; 
+    color: #171716;
 }
 a {
     text-decoration: none;
@@ -19,5 +16,11 @@ a:hover, a:active {
     text-decoration: underline;
 }
 hr {
-    color: #ffffff;
+    color: #171716;
+}
+.info {
+    font-size: medium;
+}
+ul {
+    list-style-type: square;
 }

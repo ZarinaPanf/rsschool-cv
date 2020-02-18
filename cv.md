@@ -1,10 +1,7 @@
 Zarina Panfilova
 ================
 
-{% include index.html %}
-
-<img src="photo.jpg" alt="Photo by Nicole Wolf"  width="350" height="400" />
-
+![Photo by Nicole Wolf](images/photo.jpg)
 
 Contact Info
 ------------     
