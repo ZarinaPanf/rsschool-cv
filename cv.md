@@ -1,11 +1,11 @@
 Zarina Panfilova
 ================
 
-![Photo by Nicole Wolf](images/photo.jpg)
+![Photo](images/photo.jpg)
 
 Contact Info
 ------------     
-3, Stepnoy-3            
+         
 Karaganda, 10000        
 Kazakhstan
 
