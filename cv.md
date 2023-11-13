@@ -5,8 +5,7 @@ Phone: +77066194126
 E-mail: zhiyenbayeva.z@gmail.com  
 Telegram: @ZarinaPanf  
 Discord: zarinapanf  
-Linkedin:  www.linkedin.com/in/zarina-
-panfilova-90947310a
+Linkedin:  www.linkedin.com/in/zarina-panfilova-90947310a
 
 #### Self-introduction
 
