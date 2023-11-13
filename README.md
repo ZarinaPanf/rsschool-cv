@@ -1,2 +1,2 @@
-# rsschool-cv
-CV#1. Markdown &amp; Git
+[# rsschool-cv]
+(https://zarinapanf.github.io/rsschool-cv/)
