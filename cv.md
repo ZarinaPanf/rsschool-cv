@@ -12,6 +12,7 @@ Linkedin:  www.linkedin.com/in/zarina-panfilova-90947310a
 Motivated and detail-oriented Front-End Developer with a solid foundation in building responsive, accessible, and user-friendly web interfaces using HTML, CSS, and JavaScript. Gained industry experience prior to a planned maternity leave, during which I continued developing my skills through self-learning and personal projects. Now actively reentering the tech field with a strong commitment to professional growth, modern development practices, and long-term contribution to innovative front-end teams.
 
 #### Work experience
+
 Junior Front-End Developer
 EPAM Systems – Karaganda, Kazakhstan | October, 2020 – Present
 - Collaborated with UI/UX designers to translate Figma mockups into responsive web pages.
@@ -20,12 +21,46 @@ EPAM Systems – Karaganda, Kazakhstan | October, 2020 – Present
 - Contributed to performance optimization and accessibility improvements.
 
 #### Career Break
+
 Full-Time Parent (Maternity Leave) | March, 2021 – Present
 - Took a planned break to raise children.
 - Continued learning web development through online courses and personal projects.
 - Developed strong time management, adaptability, and self-learning skills.
 
 #### Education
+
 Karaganda Technical University
 Bachelor of Computer Science, CS
 (2013 - 2017)
+
+#### Skills
+
+Languages & Markup:
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (ES6+)
+
+Frameworks & Libraries:
+- React (basic knowledge)
+- Tailwind CSS
+
+Version Control & Tools:
+- Git & GitHub
+- VS Code
+- Chrome DevTools
+
+Development Practices:
+- Responsive Web Design
+- Cross-Browser Compatibility
+- Basic REST API integration
+- Semantic HTML and accessibility fundamentals
+
+Design & Prototyping Tools:
+- Figma (basic knowledge)
+
+Soft Skills:
+- Fast learner
+- Problem-solving
+- Attention to detail
+- Communication and collaboration
+- Adaptability and time management
