@@ -64,3 +64,26 @@ Soft Skills:
 - Attention to detail
 - Communication and collaboration
 - Adaptability and time management
+
+#### Languages
+
+Russian (Native)
+English (B1)
+
+#### Certifications
+
+EFSET English Certificate - EF
+Score: 42/100, Intermediate (CEFR
+B1)
+FreeCodeCamp: Responsive Web Design
+
+#### Code Example
+```js
+function maxTriSum(numbers){
+  const sortedArr = numbers.sort((a, b) => b - a);
+  const num = [... new Set(sortedArr)];
+  let sum = num[0] + num [1] + num[2];
+    console.log(num)
+  return sum;
+}
+```
