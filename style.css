@@ -529,3 +529,71 @@ main {
 .code-block code {
     color: var(--text-primary);
 }
+
+/* Contact section */
+.contact-grid {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-info {
+    background: var(--white);
+    padding: 3rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px var(--shadow);
+    max-width: 600px;
+    width: 100%;
+}
+
+.contact-subtitle {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    color: var(--text-primary);
+    text-align: center;
+}
+
+.contact-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.contact-list li {
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--primary-beige);
+    transition: background-color 0.3s ease;
+}
+
+.contact-list li:last-child {
+    border-bottom: none;
+}
+
+.contact-list li:hover {
+    background-color: var(--primary-beige);
+    margin: 0 -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 8px;
+}
+
+.contact-label {
+    font-weight: 500;
+    color: var(--text-light);
+    min-width: 100px;
+    margin-right: 1rem;
+}
+
+.contact-link {
+    color: var(--text-primary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-link:hover {
+    color: var(--accent-beige);
+}
+
+.contact-text {
+    color: var(--text-secondary);
+}
